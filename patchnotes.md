@@ -1,3 +1,10 @@
+## 2.4.1 - 04.08.2026
+
+### Updater
+
+- Neuer Updater
+- Updates sind nicht mehr verpflichtend ausser ich kennzeichne sie als solche
+- Patchnotes sind jetzt im Updatefenster einsehbar
 
 ## 2.4.0 - 04.08.2026
 
