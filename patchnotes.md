@@ -1,3 +1,9 @@
+## 2.4.6 - 04.08.2026
+
+### Social Tab Data Transfer
+
+- Delving of Fror Buffs werden jetzt an die Webseite geschickt / Delving of Fror Buffs will now get transfered to the website
+
 ## 2.4.5 - 04.08.2026
 
 ### Updater
