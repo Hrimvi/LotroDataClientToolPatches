@@ -1,3 +1,9 @@
+## 2.5.0 - 05.08.2026
+
+### Skybox
+
+- Man kann jetzt eine Skybox auswaehlen / You can now change your skybox
+
 ## 2.4.6 - 04.08.2026
 
 ### Social Tab Data Transfer
