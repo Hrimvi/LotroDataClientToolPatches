@@ -1,4 +1,15 @@
-## 2.5.0 - 05.08.2026
+## 2.5.1 - 06.08.2026
+
+### Skybox
+
+- Skyboxen sind jetzt alphabetisch sortiert / Skyboxes are now sorted alphabetically
+
+### Radar Settings:
+
+- Max Zoom wurde auf 1.0 erhoeht / Increased maximum zoom to 1.0
+- Falls Settingsladen failed versucht er noch 49 weitere Male sie zu laden, um ein Reseten zu vermeiden / If loading the settings fails, the DLL will retry up to 49 additional times to prevent settings from being reset, as long as a settings file exists
+
+# 2.5.0 - 05.08.2026
 
 ### Skybox
 
