@@ -9,6 +9,9 @@
 
 - Radar Position sollte jetzt korrekt gespeichert werden / Radar position should now get saved correctly
 
+### Skybox
+
+- Es wird keine falsche Skybox mehr zu beginn gesetzt / There will no longer a wrong skybox get set at the start
 
 ## 2.5.1 - 06.08.2026
 
