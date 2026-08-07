@@ -1,3 +1,15 @@
+## 2.5.2 - 07.08.2026
+
+### Radar
+
+- Radar Alert sollte nicht mehr random kommen, sondern nurnoch wenn ein Target in range ist / Radar Alert should no longer happen randomly
+- Targetvorschlaege werden nurnoch gegeben, wenn das Target auch in range ist (etwa 85m) / Targetsuggestions will only be shown if the target is in range (about 85m)
+
+### Radar Settings:
+
+- Radar Position sollte jetzt korrekt gespeichert werden / Radar position should now get saved correctly
+
+
 ## 2.5.1 - 06.08.2026
 
 ### Skybox
