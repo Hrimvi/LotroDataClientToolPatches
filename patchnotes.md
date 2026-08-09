@@ -1,3 +1,9 @@
+## 2.5.3 - 09.08.2026
+
+### Main Menu
+
+- Bei Klick auf Discordprofil oeffnet sich Context Menu mit Optionen: Link zur Webseite, Zum Logfile und Logout / Clicking on the discord avatar will open a context strip with the options : link to website, link to logfile and logout
+
 ## 2.5.2 - 07.08.2026
 
 ### Radar
