@@ -1,3 +1,9 @@
+## 2.5.4 - 10.08.2026
+
+### Lotro Debug
+
+- Skeletonansicht/wallhack hinzugefuegt. Aktuell nur temporaere Implementation / Added a skeleton view/wallhack
+
 ## 2.5.3 - 09.08.2026
 
 ### Main Menu
