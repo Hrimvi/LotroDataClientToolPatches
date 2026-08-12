@@ -1,3 +1,8 @@
+## 2.5.5 - 12.08.2026
+
+### Radar Settings
+
+- Man kann jetzt Farben fuer Freep, Creep und Local Player auswaehlen / You can now select colors for Local Player, Freeps and Creeps
 ## 2.5.4 - 10.08.2026
 
 ### Lotro Debug
