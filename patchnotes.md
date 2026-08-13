@@ -1,8 +1,19 @@
+## 2.5.6 - 13.08.2026
+
+### XML Export
+
+- Der XML Export des Snapshot ist zurueck / The XML-Export feature is back
+
+### UI
+
+- Ich habe die luecke zwischen der untersten Karte und der Connected Leiste verkleinert/I have removed the big gap under the last card
+
 ## 2.5.5 - 12.08.2026
 
 ### Radar Settings
 
 - Man kann jetzt Farben fuer Freep, Creep und Local Player auswaehlen / You can now select colors for Local Player, Freeps and Creeps
+
 ## 2.5.4 - 10.08.2026
 
 ### Lotro Debug
