@@ -1,3 +1,10 @@
+## 2.5.7 - 15.08.2026
+
+### Debugging
+
+- Mehr Logging im Tool hinzugefuegt / Added more logging for debugging
+- Ein ungenutzer Timer wurde geloescht / Deleted an unused timer
+
 ## 2.5.6 - 13.08.2026
 
 ### XML Export
