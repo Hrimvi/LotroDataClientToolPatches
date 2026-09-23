@@ -1,3 +1,63 @@
+## 3.0.0
+
+- Only English from now on
+
+I have recoded the whole tool and many bugs seem to be gone. No more settings reset or random crashes anymore.
+
+Changes:
+
+I also want to introduce a new feature of the Qzeng Client. The ESP Wallhack
+This Hack draws 2d or 3d Boxes around selected players. Highlighting applies here too
+
+- Added 3D Box Feature
+- Added Show for same Faction Feature
+- Added Show Name Feature
+- Added Show Distance Feature
+- Added Show HP Bar Feature
+
+Also you now have the possibility to change the weather like you want. You are required to have precipitation effects option ticked for it to work.
+
+- Added Weather changing
+
+Also a big part of this update is the keybindingsystem. You can change keybinds in the keybind tab in the settings. This system is the start of more options which will base on these in the future like a custom mail system for example.
+
+- Added Radar Toggle, Skeleton Debug, ESP Toggle and Settings Toggle Keybindings
+- To change Keybinds just left click on the Keybinding in the Options
+
+### Tool:
+ - Removed Open Moorsradar Button
+ - Removed whole Skybox section
+ - Removed the skeleton hack/wallhack button
+
+### DLL:
+- Most tool is now in C
+
+### Settings:
+- They are now a .json rather than just a .cfg file
+- Added way more features to the tool inside lotro and there are now more customizable 
+- You can now define your own players to be highlighted on radar and esp
+- Colorpicking is now way nicer, just click on the box and select the one you want
+
+### Radar:
+- Added an option for the radar to move with yourself and have you always facing to "north"
+- The map is now also loading outside of the moors 
+- CURRENTLY DUNGEONS ARE NOT WORKING, IF YOU NEED THIS WAIT TILL NEXT VERSION
+
+### DEFAULT KEYBINDS:
+
+Radar Toggle: Ctrl + F5
+Skeleton Hack Toggle: Ctrl + F6
+ESP Toggle: CTRL + F7
+Settings Toggle: CTRL + F8
+
+### Other Changes:
+- Added Distance to the Target List and Hoverinfo
+
+### Known Issues:
+
+- Sometimes the map bugges out and shows you on the wrong landblock. This fixes itself once you walk to the next one
+- Dungeons currently have no maps, the features of the radar are still working tho
+
 ## 2.5.7 - 15.08.2026
 
 ### Debugging
