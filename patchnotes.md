@@ -1,4 +1,32 @@
-## 3.0.0
+## 3.1.0 - 25.09.2026
+
+### Extern Tool
+
+- Removed Zoom and FOV 
+- Made the tool less tall now
+
+### ESP
+
+- Added 16:10, 4:3 and 5:4 Aspect Ratio support (16:9 was default)
+- Added custom scale for all texts and the hp bar in the ESP
+
+### DLL
+
+- Fixed random mouseclicking when loading the DLL in
+
+### NEW FEATURE - AIMLOCK
+
+You dont have to think about movement from now on. Just activate the Aimlock Toggle and Auto run and have perfect movement for every melee class
+
+- Added Turn To Target Feature, default Hotkey: Alt + F5
+- Added Aimlock Toggle Feature, default Hotkey: Alt + F6
+
+## Zoom and FoV
+
+- Zoom and FoV are now found in the Settings in the Tab Zoom & FoV
+- Added a "Revert Zoom and FoV" Button
+
+## 3.0.0 - 23.09.2026
 
 - Only English from now on
 
