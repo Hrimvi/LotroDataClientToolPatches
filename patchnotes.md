@@ -26,6 +26,10 @@ You dont have to think about movement from now on. Just activate the Aimlock Tog
 - Zoom and FoV are now found in the Settings in the Tab Zoom & FoV
 - Added a "Revert Zoom and FoV" Button
 
+## KNOWN ISSUES
+
+- Dungeon maps still not working
+
 ## 3.0.0 - 23.09.2026
 
 - Only English from now on
