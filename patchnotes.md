@@ -1,3 +1,26 @@
+## 3.2.0 - 26.09.2026
+
+### ESP
+- Removed Show 3D Box Checkbox and replaced with Dropdown with new No Box Feature
+
+### NEW FEATURE - EZ TARGET
+
+You can now select the first target in the target suggestions. This will help in zerg and other situations to focus low hp and squishy targets.
+
+- default Hotkey: End
+THIS DOES ONLY WORK IF "SELECT SELF" IS BOUND TO F1 IN THE LOTRO SETTINGS
+
+### Radar
+
+- Leftclick on an entity in the radar will select it as a target
+THIS DOES ONLY WORK IF "SELECT SELF" IS BOUND TO F1 IN THE LOTRO SETTINGS
+
+- Fixed the Issue with the map being offset sometimes
+
+### Settings
+
+- Added support for 5 new mousebuttons in the keybindings
+
 ## 3.1.0 - 25.09.2026
 
 ### Extern Tool
