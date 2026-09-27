@@ -1,3 +1,9 @@
+## 3.2.1 - 27.09.2026
+
+### EZ Target
+
+- Fixed the targetting so F1 is no longer required, same goes for the map select
+
 ## 3.2.0 - 26.09.2026
 
 ### ESP
