@@ -1,3 +1,7 @@
+## 3.2.3 - 30.09.2026
+
+- Fixed Targetting
+
 ## 3.2.2 - 30.09.2026
 
 - Fixed some issues Lotro introduced with its newest update

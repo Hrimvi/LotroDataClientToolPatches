@@ -1,7 +1,12 @@
 {
-  "latest": "3.2.2",
+  "latest": "3.2.3",
 
   "updates": [
+    {
+      "version": "3.2.3",
+      "mandatory": true,
+      "download": "https://raw.githubusercontent.com/Hrimvi/LotroDataClientToolPatches/main/versions/download/v3.2.3/QzengClient_3.2.3.zip"
+    },
     {
       "version": "3.2.2",
       "mandatory": true,
