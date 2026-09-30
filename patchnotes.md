@@ -1,3 +1,7 @@
+## 3.2.2 - 30.09.2026
+
+- Fixed some issues Lotro introduced with its newest update
+
 ## 3.2.1 - 27.09.2026
 
 ### EZ Target
