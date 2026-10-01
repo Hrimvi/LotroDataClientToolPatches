@@ -1,3 +1,7 @@
+## 3.2.5 - 01.10.2026
+
+- Highres dat files are no longer required to load for the dat api to be successful
+
 ## 3.2.4 - 01.10.2026
 
 - Added Huge Treasure Dig Holes in the Treasure Event to the map. Have fun cheating :D
