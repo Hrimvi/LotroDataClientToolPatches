@@ -1,3 +1,7 @@
+## 3.2.4 - 01.10.2026
+
+- Added Huge Treasure Dig Holes in the Treasure Event to the map. Have fun cheating :D
+
 ## 3.2.3 - 30.09.2026
 
 - Fixed Targetting
