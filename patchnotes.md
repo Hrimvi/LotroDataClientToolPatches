@@ -1,9 +1,19 @@
 ## 3.2.6 - 06.10.2026
 
-- FoV, Zoom, Max Zoom and all windowstates are now saved throughout closing the tool and opening it again
+### Settings
+- Refactored the settings save/load code
+
+### Skybox 
 - Added a search bar at the top of the skybox search
-- Hotkeys will now only be catched if in lotro
+
+### Keybinds
 - Various renaming of keybinds
+- Hotkeys will now only be catched if in lotro
+
+### General Appstate
+- FoV, Zoom, Max Zoom and all windowstates are now saved throughout closing the tool and opening it again
+
+### Radar
 - Changed some freep/creep class value values
 
 ## 3.2.5 - 01.10.2026
