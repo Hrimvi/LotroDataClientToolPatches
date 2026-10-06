@@ -1,3 +1,11 @@
+## 3.2.6 - 06.10.2026
+
+- FoV, Zoom, Max Zoom and all windowstates are now saved throughout closing the tool and opening it again
+- Added a search bar at the top of the skybox search
+- Hotkeys will now only be catched if in lotro
+- Various renaming of keybinds
+- Changed some freep/creep class value values
+
 ## 3.2.5 - 01.10.2026
 
 - Highres dat files are no longer required to load for the dat api to be successful
