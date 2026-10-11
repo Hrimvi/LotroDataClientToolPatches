@@ -1,6 +1,7 @@
 ## 3.2.7 - 11.10.2026
 
 - Fixed the issue with targets not being selected and dropping fps (was caused by the lotro update, should now work always)
+- Skulls are now correctly coloured
 
 ## 3.2.6 - 06.10.2026
 
