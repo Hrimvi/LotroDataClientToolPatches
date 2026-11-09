@@ -1,3 +1,10 @@
+## 3.2.8 - 09.11.2026
+
+- Fixed Skeletonview (broke due to lotro update)
+- There is no longer need for german/french/english sdk versions, the sdk now determines the language itself
+- Added Mapsupport for Region 6
+- Added ESP and Radarsupport for the new bait the enemy mobs to make stealing easier. (This is not optional rn, I am planning a bigger rework of the tool anyways so I dont really care rn)
+
 ## 3.2.7 - 11.10.2026
 
 - Fixed the issue with targets not being selected and dropping fps (was caused by the lotro update, should now work always)
